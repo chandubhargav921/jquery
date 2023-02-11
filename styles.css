@@ -1,0 +1,13 @@
+body{
+  background-color: blue;
+}
+
+.big-title{
+  font-style: cursive;
+  color: orange;
+  font-size: 5rem;
+}
+
+.margin-50{
+  margin: 50px;
+}
